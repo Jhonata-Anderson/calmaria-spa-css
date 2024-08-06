@@ -25,9 +25,12 @@ O [link para acessar o projeto está disponivel aqui](https://jhonata-anderson.g
 
 O Calmaria Spa é uma empresa fictícia utilizada no curso da Alura.
 
-## Certificação e Formação
+## Certificações e Formações
 
-Este projeto foi desenvolvido como parte do curso [CSS: ajustando a acessibilidade visual em um projeto](https://cursos.alura.com.br/certificate/2485766a-0d12-4482-9d26-7c9ad4a42f71?lang=pt_BR), onde aprendi técnicas de acessibilidades e melhores práticas. Abaixo está o certificado obtido ao concluir o curso:
+- Este projeto foi desenvolvido como parte do curso [CSS: ajustando a acessibilidade visual em um projeto](https://cursos.alura.com.br/certificate/2485766a-0d12-4482-9d26-7c9ad4a42f71?lang=pt_BR), onde aprendi técnicas de acessibilidades e melhores práticas com css. Abaixo está o certificado obtido ao concluir o curso:
 
-![Certificado](https://i.postimg.cc/wjtYJrdS/Jhonata-Anderson-Dos-Santos-Silva-Curso-CSS-ajustando-a-acessibilidade-visual-em-um-projeto-Alu.png)
+![Certificado](https://i.postimg.cc/vBB0wBFg/imagem-2024-08-06-140619233.png)
 
+- Nesse curso [Acessibilidade no HTML: escrevendo códigos semânticos para inclusão](https://cursos.alura.com.br/certificate/cb944158-4875-4b79-82e6-5d22e91d8951?lang=pt_BR) aprendi melhores práticas de acessibilidade com html. Aaixo está o certificado obtido ao concluir o curso:
+
+![Certificado](https://i.postimg.cc/8PNcwrhb/imagem-2024-08-06-141057916.png)
